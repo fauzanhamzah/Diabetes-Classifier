@@ -8,4 +8,4 @@ Metode SVM:
 
 Metode Deccision Tree:
 - Jalankan file train_decisiontree.py
-- Jalankan file gui_predict_decisiontree
+- Jalankan file gui_predict_decisiontree.py
